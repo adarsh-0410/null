@@ -1,0 +1,31 @@
+
+.erp-image{
+    height: 700px;
+    width: 800px;
+    float: left;
+    
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+div{
+    font-weight: normal;
+}
+.name{
+    width: 300px;
+}
+.password{
+    width: 300px;
+}
+.sign-in{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.sign-in:hover {
+    background-color:darkblue;
+}
